@@ -8,3 +8,5 @@
 /dataSources.local.xml
 # Custom markdown view settings
 /markdown.xml
+# Git toolbox plugin settings
+/git_toolbox_prj.xml
